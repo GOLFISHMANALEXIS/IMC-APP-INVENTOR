@@ -4,41 +4,25 @@
 
 ## COMPONENTES
 
-## - Tiene una primera disposición horizontal con una etiqueta que contiene el título.
+- Tiene una primera disposición horizontal con una etiqueta que contiene el título.
 
-## 
+- En la disposición dos tiene la etiqueta dos y contiene el peso en kilogramos.
 
-## - En la disposición dos tiene la etiqueta dos y contiene el peso en kilogramos.
+- La disposición 3 continúa con una etiqueta y un texto que contiene la estatura.
 
-## 
+- En la disposición cuatro contiene cuatro botones:
+  - Botón calcular
+  - Botón limpiar
+  - Botón cerrar
 
-## - La disposición 3 continúa con una etiqueta y un texto que contiene la estatura.
+- Tiene una disposición 5 con etiqueta del resultado.
 
-## 
+- Una disposición 6 con etiqueta de la situación en que se encuentra, que incluye:
+  - Peso bajo
+  - Peso normal
+  - Peso alto
+  - Una imagen que muestra, al presionar calcular IMC, la situación en que te encuentras.
 
-## - En la disposición cuatro contiene cuatro botones:
-
-## - Botón calcular
-
-## - Botón limpiar
-
-## - Botón cerrar
-
-## 
-
-## - Tiene una disposición 5 con etiqueta del resultado.
-
-## 
-
-## - Una disposición 6 con etiqueta de la situación en que se encuentra, que incluye:
-
-## - Peso bajo
-
-## - Peso normal
-
-## - Peso alto
-
-## - Una imagen que muestra, al presionar calcular IMC, la situación en que te encuentras.
 
 ## BLOQUES
 
